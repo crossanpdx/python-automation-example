@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color:#333333;
+  }
+
+header {
+    overflow: auto;
+}
+
+header img {
+    float: left;
+    padding: 8px;
+    width: 100px;
+    height: 100px;
+  }
+  
+label {
+    color:orange
+}

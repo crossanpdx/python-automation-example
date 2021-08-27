@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "headless_mode": false,
+  "tested_page": "https://sansmoviedb.com/login",
+  "timeout": 10
+}
