@@ -18,12 +18,3 @@
 * Test white spacing in field
 * Test strings on integer fields
 * Test special characters
-
-#### Notes
-``````
-For this exercise I used PyCharm, however I am in favor of portable
-packages. Dockerize or configuring in pipeline setup for flexibility
-in where to run, who can run, and remove local setup constraints. This 
-can take additional setup time to implement, but saves time in the 
-long run.
-
